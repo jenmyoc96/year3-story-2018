@@ -6,6 +6,7 @@ this is a synopsis of the hunger games book chapters 1 , 2 and 3
 
 <h1>Changes i made are : </h1>
 version 1 - issue aboout smiley in chapter 3
+version 1- fixed spelling mistake in chapter 1
 
 <h1> finished chapter</h1>
 
